@@ -1,0 +1,15 @@
+{
+    "title": "Oakland City Data",
+    "databases": {
+        "oakland_minutes": {
+            "tables": {
+                "ocr_jobs": {
+                    "hidden": true
+                },
+                "fetched_jobs": {
+                    "hidden": true
+                }
+            }
+        }
+    }
+}
